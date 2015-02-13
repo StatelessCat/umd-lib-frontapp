@@ -1,0 +1,21 @@
+{
+  "name": "umd-lib-frontapp",
+  "version": "0.0.1",
+  "authors": [
+    "Raphael Cazenave-Leveque <raphael.cazenave@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "umd-lib": "~0.1.2",
+    "requirejs": "~2.1.16",
+    "jsonld": "~0.3.20"
+  }
+}
